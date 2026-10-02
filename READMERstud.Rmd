@@ -15,7 +15,7 @@ library(tidyverse)
 library(knitr)
 library(kableExtra)
 ```
-
+# THIS IS A TEXT
 
 ### Frequency tables for categorical variables
 
